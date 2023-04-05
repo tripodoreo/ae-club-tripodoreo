@@ -1,0 +1,1 @@
+Hi, I'm Johnny. I am taking the AEC class to learn to think about data in a more engineering focused way. Also, to pick up a bit on more SWE best practices and hopefully transition from an analyst into an analytics engineer in the near future.
