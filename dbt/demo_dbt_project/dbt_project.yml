@@ -35,3 +35,4 @@ models:
   demo_dbt_project:
     # Config indicated by + and applies to all files under models/example/
     materialized: view
+
